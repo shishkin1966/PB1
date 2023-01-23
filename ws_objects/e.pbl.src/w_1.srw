@@ -25,6 +25,6 @@ end on
 on w_1.destroy
 end on
 
-event open;messagebox("","")
+event open;messagebox("1","1")
 end event
 
